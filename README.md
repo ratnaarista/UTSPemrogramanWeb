@@ -5,4 +5,5 @@
 # UTS PEMROGRAMAN WEB
 
 ## Tugasnya adalah membuat conversi dari desain template tersebut kedalam HTML dan CSS, minimal homepagenya saja
-![websaya](https://user-images.githubusercontent.com/56379930/116954443-351e3a00-acba-11eb-84ad-3e4ca57d4d65.png
+
+![websaya](https://user-images.githubusercontent.com/56379930/116954539-81697a00-acba-11eb-8c36-3fcfe1c8f5c6.png)
